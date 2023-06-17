@@ -1,10 +1,10 @@
-// Without Array List 
 
-public class  Subsequence_Tree{
+public class  SubsequenceTree{
+
     static void printSubSeq(String str , String result){
 
         if(str.length() == 0){
-            System.out.println(result + ",");
+            System.out.print(result + ",");
             return;
         }
         //result is used to store results for printing
@@ -24,4 +24,4 @@ public class  Subsequence_Tree{
         printSubSeq("ravi", "");
     }
 
-}
+} 

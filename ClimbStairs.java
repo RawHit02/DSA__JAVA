@@ -14,4 +14,6 @@ public class ClimbStairs {
         int n = 4;
         int result = climbStairs(n);
         System.out.println(result);
+    
     }
+}
