@@ -28,8 +28,10 @@ public class Generate_Paranthesis {
             // closing number of brackets cannot be greater then opening brackets
             helper(ans, currentBracket+")", open , close+1 , max);
         }
+        return;
     }
     public static void main(String[] args) {
-        
+        List<String> ans = generate(3);
+        System.out.println(ans);
     }
 }

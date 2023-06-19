@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Generate_Paranthesis",
+      "request": "launch",
+      "mainClass": "Generate_Paranthesis",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
       "name": "josephproblem",
       "request": "launch",
       "mainClass": "josephproblem",
