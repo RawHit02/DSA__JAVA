@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Word_Search",
+      "request": "launch",
+      "mainClass": "Word_Search",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
       "name": "Generate_Paranthesis",
       "request": "launch",
       "mainClass": "Generate_Paranthesis",
