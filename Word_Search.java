@@ -30,8 +30,9 @@ public class Word_Search {
 
         // mark the character if it matches
         // so that next time it wont match again
-        char temp = board[row][col];
         board[row][col] = '#';
+        char temp = board[row][col];
+        
 
         int[][] directions = {
             {0, 1},  // right

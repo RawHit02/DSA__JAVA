@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Permutations",
+      "request": "launch",
+      "mainClass": "Permutations",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "LetterComb",
+      "request": "launch",
+      "mainClass": "LetterComb",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "LetterCombination",
+      "request": "launch",
+      "mainClass": "LetterCombination",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
       "name": "Word_Search",
       "request": "launch",
       "mainClass": "Word_Search",
