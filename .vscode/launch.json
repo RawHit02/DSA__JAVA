@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SudokuSolver",
+      "request": "launch",
+      "mainClass": "SudokuSolver",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
       "name": "Permutations",
       "request": "launch",
       "mainClass": "Permutations",
