@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SumN_Natural",
+      "request": "launch",
+      "mainClass": "DSA_Basics.SumN_Natural",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "Combination_Sum",
+      "request": "launch",
+      "mainClass": "Combination_Sum",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "SubsetSum",
+      "request": "launch",
+      "mainClass": "SubsetSum",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
       "name": "SudokuSolver",
       "request": "launch",
       "mainClass": "SudokuSolver",
