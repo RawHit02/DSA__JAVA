@@ -3,6 +3,62 @@
   "configurations": [
     {
       "type": "java",
+      "name": "rotate_Arraywithk",
+      "request": "launch",
+      "mainClass": "rotate_Arraywithk",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "AnticlockWise_Array_rotate",
+      "request": "launch",
+      "mainClass": "AnticlockWise_Array_rotate",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "rotatearrayClockwise",
+      "request": "launch",
+      "mainClass": "rotatearrayClockwise",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "find_Pair_Sum",
+      "request": "launch",
+      "mainClass": "find_Pair_Sum",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "CRUD2",
+      "request": "launch",
+      "mainClass": "CRUD2",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "CRUD",
+      "request": "launch",
+      "mainClass": "CRUD",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "fndPaths",
+      "request": "launch",
+      "mainClass": "fndPaths",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "Array_CRUD",
+      "request": "launch",
+      "mainClass": "DSA_Basics.Array_CRUD",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
       "name": "SumN_Natural",
       "request": "launch",
       "mainClass": "DSA_Basics.SumN_Natural",
