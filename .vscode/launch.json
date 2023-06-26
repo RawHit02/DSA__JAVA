@@ -3,6 +3,69 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ArraySum",
+      "request": "launch",
+      "mainClass": "ArraySum",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "rotatearraybykOptimized",
+      "request": "launch",
+      "mainClass": "rotatearraybykOptimized",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "rotatearraybyk",
+      "request": "launch",
+      "mainClass": "rotatearraybyk",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "TwoSum_pair_Sum",
+      "request": "launch",
+      "mainClass": "TwoSum_pair_Sum",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "reversearray",
+      "request": "launch",
+      "mainClass": "reversearray",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "isarraysorted",
+      "request": "launch",
+      "mainClass": "isarraysorted",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "BarChart",
+      "request": "launch",
+      "mainClass": "BarChart",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "SecondMaximum",
+      "request": "launch",
+      "mainClass": "SecondMaximum",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "MaxElement",
+      "request": "launch",
+      "mainClass": "MaxElement",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
       "name": "rotate_Arraywithk",
       "request": "launch",
       "mainClass": "rotate_Arraywithk",
