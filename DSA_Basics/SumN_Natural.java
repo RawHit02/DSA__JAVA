@@ -1,4 +1,4 @@
-package DSA_Basics;
+
 
 public class SumN_Natural {
     static void fun(int n) {

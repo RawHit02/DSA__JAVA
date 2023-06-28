@@ -1,7 +1,7 @@
 public class ArraySum {
     public static void main(String[] args) {
-        int arr1[] = {9,1,8,9,2};
-        int arr2[] = {9,1,2,7};
+        int arr1[] = {9,1,8,9};
+        int arr2[] = {10,1,2,7};
         int n1 = arr1.length;
         int n2 = arr2.length;
         int n3 = n1>n2 ? n1:n2;

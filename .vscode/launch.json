@@ -3,6 +3,76 @@
   "configurations": [
     {
       "type": "java",
+      "name": "sort_colorNumbers",
+      "request": "launch",
+      "mainClass": "sort_colorNumbers",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "sort_0_1",
+      "request": "launch",
+      "mainClass": "sort_0_1",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "SumN_Natural",
+      "request": "launch",
+      "mainClass": "SumN_Natural",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "LeaderElement",
+      "request": "launch",
+      "mainClass": "LeaderElement",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "zigzag",
+      "request": "launch",
+      "mainClass": "zigzag",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "MajorityElement",
+      "request": "launch",
+      "mainClass": "MajorityElement",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "oddElement",
+      "request": "launch",
+      "mainClass": "oddElement",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "removeDuplicate",
+      "request": "launch",
+      "mainClass": "removeDuplicate",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "MissingNumber",
+      "request": "launch",
+      "mainClass": "MissingNumber",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "ArraySubtraction",
+      "request": "launch",
+      "mainClass": "ArraySubtraction",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
       "name": "ArraySum",
       "request": "launch",
       "mainClass": "ArraySum",
