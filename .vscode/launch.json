@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SmallerNumberMany",
+      "request": "launch",
+      "mainClass": "SmallerNumberMany",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "DNF",
+      "request": "launch",
+      "mainClass": "DNF",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "BUYSELLSTOCK",
+      "request": "launch",
+      "mainClass": "BUYSELLSTOCK",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "Gasstation",
+      "request": "launch",
+      "mainClass": "Gasstation",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
       "name": "sort_colorNumbers",
       "request": "launch",
       "mainClass": "sort_colorNumbers",
