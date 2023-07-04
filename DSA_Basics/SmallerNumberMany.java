@@ -3,11 +3,10 @@ import java.util.Arrays;
 public class SmallerNumberMany {
     public static void bruteforce(int arr[]){
         int n = arr.length;
-        int count =0;
         int[] output = new int[n];
-        for(int i =0;i<arr.length;i++){
-            count=0;
-            for(int j = 0 ; j<arr.length;j++){
+        for(int i =0;i<n;i++){
+           int count=0;
+            for(int j = 0 ; j<n;j++){
                 if(arr[i] > arr[j]){
                     count++;
                 }
@@ -39,9 +38,42 @@ public class SmallerNumberMany {
             System.out.print(i + ",");
         }
     }
+
+    static void approach_3(int arr[]){
+        int n = arr.length;
+        int hash[] = new int[100];
+        int output[] = new int[n];
+        for(int i=0;i<arr.length;i++){
+            if(hash[arr[i]]==0){
+                hash[arr[i]]=1;
+            }
+            else{
+                hash[arr[i]]+=1;
+            }
+        }
+        //prefix sum array
+        for(int  i=1;i<hash.length;i++){
+            int prev = hash[i-1];
+            int curr =hash[i];
+            hash[i] = prev + curr;
+        }
+        // for(int i: hash){
+        //     System.out.println(i+ ",");
+        // }
+
+        for(int i=0;i<arr.length;i++){
+            output[i] = hash[arr[i]-1];
+        }
+        System.out.println();
+        for(int i:output){
+            System.out.print(i + ",");
+        }
+    }
     public static void main(String[] args) {
         int arr []= {8,1,2,3,4};
         bruteforce(arr);
-        approach_2(arr);
+        // approach_2(arr);
+        System.out.println();
+        approach_3(arr);
     }
 }

@@ -3,6 +3,62 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Subarray_sum",
+      "request": "launch",
+      "mainClass": "Subarray_sum",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "Sort_Array_Parity",
+      "request": "launch",
+      "mainClass": "Sort_Array_Parity",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "find_peak_element",
+      "request": "launch",
+      "mainClass": "find_peak_element",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "Max_Chunks_Sorted",
+      "request": "launch",
+      "mainClass": "Max_Chunks_Sorted",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "Count_Distinct_Elements",
+      "request": "launch",
+      "mainClass": "Count_Distinct_Elements",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "NBonacciSeries",
+      "request": "launch",
+      "mainClass": "NBonacciSeries",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "RainWater",
+      "request": "launch",
+      "mainClass": "RainWater",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "maxsumconsecutive",
+      "request": "launch",
+      "mainClass": "maxsumconsecutive",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
       "name": "SmallerNumberMany",
       "request": "launch",
       "mainClass": "SmallerNumberMany",
