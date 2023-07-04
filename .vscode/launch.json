@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "spiralmat",
+      "request": "launch",
+      "mainClass": "spiralmat",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "spiralMatrix",
+      "request": "launch",
+      "mainClass": "spiralMatrix",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "luckynumber",
+      "request": "launch",
+      "mainClass": "luckynumber",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "LuckyNumber",
+      "request": "launch",
+      "mainClass": "LuckyNumber",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "SubarrayProduct",
+      "request": "launch",
+      "mainClass": "SubarrayProduct",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
       "name": "Subarray_sum",
       "request": "launch",
       "mainClass": "Subarray_sum",
