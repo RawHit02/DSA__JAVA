@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SnakePatter",
+      "request": "launch",
+      "mainClass": "SnakePatter",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "Transpose",
+      "request": "launch",
+      "mainClass": "Transpose",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
+      "name": "ToeplitzMatrix",
+      "request": "launch",
+      "mainClass": "ToeplitzMatrix",
+      "projectName": "G2_Technical_Training_DSA_cd993b89"
+    },
+    {
+      "type": "java",
       "name": "spiralmat",
       "request": "launch",
       "mainClass": "spiralmat",
