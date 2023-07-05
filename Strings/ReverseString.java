@@ -1,3 +1,4 @@
+package Strings;
 import java.util.Scanner;
 public class ReverseString {
     static void f(String n){
