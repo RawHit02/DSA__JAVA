@@ -3,7 +3,7 @@ import java.util.Scanner;
 import java.util.LinkedList;
 import java.util.Stack;
 
-class BinaryTree<T> {
+class BinaryTree<T>// T is a genric datatype {
     T data;
     BinaryTree<T> left;
     BinaryTree<T> right;
